@@ -1,0 +1,44 @@
+[
+  {
+    "id":1, 
+    "name": "ENGINE DIAGNOSTIC",
+    "price": "300",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ipsum soluta earum in nisi eum.",
+    "img": "https://i.ibb.co/fpt9spV/1.jpg"
+  },
+  {
+    "id":2,
+    "name": "WHEEL ALIGMENT",
+    "price": "100",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ipsum soluta earum in nisi eum.",
+    "img": "https://i.ibb.co/4jWhW4d/2.jpg"
+  },
+  {
+    "id":3,
+    "name": "BRAKE REPARING",
+    "price": "150",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ipsum soluta earum in nisi eum.",
+    "img": "https://i.ibb.co/Ks1S8vm/3.jpg"
+  },
+  {
+    "id":4,
+    "name": "OIL CHANGING",
+    "price": "180",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ipsum soluta earum in nisi eum.",
+    "img": "https://i.ibb.co/j4Sp6HX/Pouring-motor-oil-for-motor-vehicles-from-a-gray-bottle-into-the-engine-oil-change-auto-repair-shop.jpg"
+  },
+  {
+    "id":5,
+    "name": "WASH AND GLASSING",
+    "price": "100",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ipsum soluta earum in nisi eum.",
+    "img": "https://i.ibb.co/zH17WVW/5.jpg"
+  },
+  {
+    "id":6,
+    "name": "complete analysis",
+    "price": "300",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ipsum soluta earum in nisi eum.",
+    "img": "https://i.ibb.co/h9Fv4qL/6.jpg"
+  }
+]
